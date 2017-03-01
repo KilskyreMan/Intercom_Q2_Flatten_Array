@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom", "Intercom\Intercom.csproj", "{845BA786-9E40-451E-BB51-EC0B9FC2883B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntercomTests", "IntercomTests\IntercomTests.csproj", "{FD54D588-42DD-4C07-989F-8D754614DEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845BA786-9E40-451E-BB51-EC0B9FC2883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845BA786-9E40-451E-BB51-EC0B9FC2883B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845BA786-9E40-451E-BB51-EC0B9FC2883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845BA786-9E40-451E-BB51-EC0B9FC2883B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD54D588-42DD-4C07-989F-8D754614DEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD54D588-42DD-4C07-989F-8D754614DEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD54D588-42DD-4C07-989F-8D754614DEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD54D588-42DD-4C07-989F-8D754614DEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
